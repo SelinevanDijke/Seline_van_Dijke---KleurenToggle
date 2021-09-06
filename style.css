@@ -5,9 +5,9 @@
   text-align: left;
 }
 
-.fa-bars:before {
-  content: "\f0c9";
-  font-size: 150px;
+#menu-button img {
+  width: 150px;
+  height: 150px;
 }
 
 #colorList {
